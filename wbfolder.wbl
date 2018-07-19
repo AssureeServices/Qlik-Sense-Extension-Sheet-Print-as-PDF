@@ -1,0 +1,16 @@
+com-qliktech-export-to-file.js;
+support-files/jspdf.js;
+support-files/jspdf.js;
+support-files/jspdf.min.js;
+support-files/jspdf.debug.js;
+support-files/jspdf.plugin.javascript.js;
+support-files/jspdf.plugin.addimage.js;
+support-files/jspdf.plugin.from_html.js;
+support-files/jspdf.plugin.sillysvgrenderer.js;
+support-files/jspdf.plugin.split_text_to_size.js;
+support-files/jspdf.plugin.standard_fonts_metrics;
+support-files/FileSaver.js;
+support-files/html2canvas.js;
+com-qliktech-export-to-file.qext;
+screenshottopdf.png;
+PDF.png;
