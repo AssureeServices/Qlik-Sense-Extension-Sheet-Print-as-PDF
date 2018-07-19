@@ -7,6 +7,9 @@ This extension will take a screenshot from the current sheet as PDF file
 * [Usage](#usage)
 * [Author](#author)
 
+#Screenshot
+
+![pdf](https://user-images.githubusercontent.com/18327523/42939031-f8047420-8b71-11e8-8ded-e4d6406158a9.png)
 
 
 # Installation
