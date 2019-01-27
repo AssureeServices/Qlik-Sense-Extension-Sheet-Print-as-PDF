@@ -39,5 +39,7 @@ http://localhost:4848/hub
 **Assure eServices Inc., **
 
 Irfan Kaleel
+
 Assure eServices - Qlik Web Team
+
 (http://github.com/Assureeservices)
