@@ -16,7 +16,8 @@ This extension will take a screenshot from the current sheet as PDF file
 
 1. Install the latest version of Qlik Sense Desktop in your machine (http://www.qlik.com/try-or-buy/download-qlik-sense).
 
-2. Download AeS Sheet as PDF File and extract the zip file into the following location "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\"
+2. Download "AeS Sheet as PDF File" zip file and extract to the Qlik Sense Extension folder:
+eg: "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\"
 
 *See instructions 
 [How to import an extension on Qlik Sense Server]
@@ -24,24 +25,12 @@ This extension will take a screenshot from the current sheet as PDF file
 
 #Usage
 
-Note: This extension does not print in desktop application. So use single configurator URL or HUB to print the current sheet as PDF file. 
+This extension works only through browser and not works with Qlik Sense Desktop client. To work with Desktop client, Launch the Desktop client and access the hub through browser
+http://localhost:4848/hub
 
-      
-1. Drag and drop the visualization extension into a Qlik Sense sheet and save the application.
-
-2. Open the browser and type the URL http://localhost:4848/dev-hub/single-configurator 
-
-3. Select an app(qvf) which you have the extension(AeS Sheet as PDF File).
-
-4. Select the sheet which you want to print as PDF file.
-
-5. Copy the single configurator URL and open it in another tab.
-
-6. Click the "Save as PDF" image button.
-
-7. Your current sheet will be exported as PDF file.
-
-
+1. Open the Qlik Sense App
+2. Drag and Drop the extension to a desired location in the sheet
+3. Upon clicking the button, the current sheet will be downloaded as PDF
 	
 # Author
 
@@ -49,4 +38,6 @@ Note: This extension does not print in desktop application. So use single config
 
 **Assure eServices Inc., **
 
+Irfan Kaleel
+Assure eServices - Qlik Web Team
 (http://github.com/Assureeservices)
